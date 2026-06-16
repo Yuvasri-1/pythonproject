@@ -32,11 +32,10 @@ The main objective of this project is:
 📂 Project Structure
 
 Crop-Yield-Prediction/
-│
-├── crop_yield.ipynb # Main project notebook
-├── dataset.csv # Crop dataset
-├── README.md # Project documentation
-└── requirements.txt # Required libraries
+
+crop_yield.ipynb # Main project notebook
+dataset.csv # Crop dataset
+README.md # Project documentation
 
 
 📊 Dataset Information
