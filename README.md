@@ -31,7 +31,7 @@ The main objective of this project is:
 
 📂 Project Structure
 
-Crop-Yield-Prediction/
+Crop-Yield-Prediction
 
 crop_yield.ipynb # Main project notebook
 dataset.csv # Crop dataset
