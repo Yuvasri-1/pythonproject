@@ -1,4 +1,4 @@
-🌾 Crop Yield Prediction Using Machine Learning
+🌾 Crop Yield Prediction 
 
 📌 Project Overview
 
